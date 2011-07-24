@@ -8,14 +8,14 @@
 #****************************************************************************
 
 # DEBUG can be set to YES to include debugging info, or NO otherwise
-DEBUG          := NO
+DEBUG          := YES
 
 # PROFILE can be set to YES to include profiling info, or NO otherwise
 PROFILE        := NO
 
 # TINYXML_USE_STL can be used to turn on STL support. NO, then STL
 # will not be used. YES will include the STL files.
-TINYXML_USE_STL := NO
+TINYXML_USE_STL := YES
 
 #****************************************************************************
 
